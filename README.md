@@ -13,13 +13,13 @@
 
 | Part                 | Date            | Mileage         | Price           | Notes           |
 | :------------------- | --------------- | --------------- | --------------- | --------------- |
-| bar end mirrors      |                 |                 |                 |                 |
+| bar end mirrors      |                 |                 | $20             | ebay            |
 | passender back rest  |                 |                 |                 |                 |
 | windscreen           |                 |                 |                 |                 |
 | fender eliminator    |                 |                 |                 |                 |
 | tank protector       |                 |                 |                 |                 |
 | engine covers        |                 |                 |                 |                 |
-| frame sliders        |                 |                 |                 |                 |
-| axle sliders - F     |                 |                 |                 |                 |
-| axle sliders - R     |                 |                 |                 |                 |
+| frame sliders        |                 |                 | $150            | satoracing.com  |
+| axle sliders - F     |                 |                 | $60             | satoracing.com  |
+| axle sliders - R     |                 |                 | $65             | satoracing.com  |
 | stand                |                 |                 |                 |                 |
