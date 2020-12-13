@@ -13,13 +13,13 @@
 
 | Part                 | Date            | Mileage         | Price           | Notes           |
 | :------------------- | --------------- | --------------- | --------------- | :-------------- |
-| bar end mirrors      |                 |                 | $20             | ebay            |
+| bar end mirrors      | 12.13.2020      | 5,700           | $20             | ebay            |
 | passender back rest  |                 |                 |                 |                 |
 | windscreen           |                 |                 |                 |                 |
 | fender eliminator    |                 |                 |                 |                 |
 | tank protector       |                 |                 |                 |                 |
 | engine covers        |                 |                 |                 |                 |
-| frame sliders        |                 |                 | $150            | satoracing.com  |
-| axle sliders - F     |                 |                 | $60             | satoracing.com  |
-| axle sliders - R     |                 |                 | $65             | satoracing.com  |
+| frame sliders        | 12.13.2020      | 5,700           | $150            | satoracing.com  |
+| axle sliders - F     | 12.13.2020      | 5,700           | $60             | satoracing.com  |
+| axle sliders - R     | 12.13.2020      | 5,700           | $65             | satoracing.com  |
 | stand                |                 |                 |                 |                 |
