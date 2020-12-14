@@ -3,12 +3,12 @@
 - bought on 12.11.2020 for $8,400 with 5,649 miles
 - VIN: ZDM13BLW3CB005892
 - engine #: 3BLC005891
-- gas: 90+
+- gas: 90+ octane
 - oil: SAE 15W-50
 - tires:
   - front: 120/70-ZR17
   - rear: 240/45-ZR17
-  - PSI: 36 for both front and rear (38 with passenger)
+  - 36 PSI for both front and rear (38 with passenger)
 
 *****
 
