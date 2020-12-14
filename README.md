@@ -14,7 +14,7 @@
 | Part                 | Date            | Mileage         | Price           | Notes           |
 | :------------------- | :-------------- | --------------- | --------------- | :-------------- |
 | bar end mirrors      | 12.13.2020      | 5,700           | $20             | ebay            |
-| passender back rest  |                 |                 |                 |                 |
+| passenger back rest  |                 |                 |                 |                 |
 | windscreen           |                 |                 |                 |                 |
 | fender eliminator    |                 |                 |                 |                 |
 | tank protector       |                 |                 |                 |                 |
