@@ -4,7 +4,7 @@
 - VIN: ZDM13BLW3CB005892
 - engine #: 3BLC005891
 - gas: 90+
-- oil: 15W-50
+- oil: SAE 15W-50
 - tires:
   - front: 120/70-ZR17
   - rear: 240/45-ZR17
