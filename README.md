@@ -33,7 +33,6 @@
 | passenger back rest  |                 |                 |                 |                 |
 | windscreen           |                 |                 |                 |                 |
 | fender eliminator    |                 |                 |                 |                 |
-| tank protector       |                 |                 |                 |                 |
 | engine covers        |                 |                 |                 |                 |
 | frame sliders        | 12.13.2020      | 5,700           | $150            | satoracing.com  |
 | axle sliders - F     | 12.13.2020      | 5,700           | $60             | satoracing.com  |
