@@ -12,14 +12,18 @@
 
 *****
 
-| Service         | Date            | Mileage         | Price           | Notes           |
-| :-------------- | :-------------- | :-------------- | :-------------- | :-------------- |
-| oil & filter    |                 |                 |                 |                 |
-| brake pads - F  |                 |                 |                 |                 |
-| brake pads - R  |                 |                 |                 |                 |
-| brake fluid     |                 |                 |                 |                 |
-| clutch fluid    |                 |                 |                 |                 |
-| battery         |                 |                 |                 |                 |
+| Service          | Date            | Mileage         | Price           | Notes           |
+| :--------------  | :-------------- | :-------------- | :-------------- | :-------------- |
+| oil & filter     |                 |                 |                 |                 |
+| air filter       |                 |                 |                 |                 |
+| brake pads - F   |                 |                 |                 |                 |
+| brake pads - R   |                 |                 |                 |                 |
+| brake fluid      |                 |                 |                 |                 |
+| clutch fluid     |                 |                 |                 |                 |
+| coolant          |                 |                 |                 |                 |
+| battery          |                 |                 |                 |                 |
+| spark plugs      |                 |                 |                 |                 |
+| valve adjustment |                 |                 |                 |                 |
 
 *****
 
