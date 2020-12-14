@@ -1,6 +1,6 @@
 # 2012 Ducati Diavel Carbon
 
-![](pictures/pic.png)
+![](pictures/pic.jpg)
 
 - bought on 12.11.2020 for $8,400 with 5,649 miles
 - VIN: ZDM13BLW3CB005892
