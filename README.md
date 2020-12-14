@@ -1,6 +1,7 @@
-# Ducati-Diavel
+# 2012 Ducati Diavel Carbon
 
 - bought for $8,400 on 12.11.2020 with 5,649 miles
+- VIN:
 
 | Service         | Date            | Mileage         | Price           | Notes           |
 | :-------------- | :-------------- | --------------- | --------------- | :-------------- |
