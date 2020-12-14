@@ -1,5 +1,7 @@
 # Ducati-Diavel
 
+- bought on 12.11.2020 with 5,649 miles
+
 | Service         | Date            | Mileage         | Price           | Notes           |
 | :-------------- | :-------------- | --------------- | --------------- | :-------------- |
 | oil & filter    |                 |                 |                 |                 |
