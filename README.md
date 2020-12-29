@@ -6,7 +6,7 @@
 - VIN: ZDM13BLW3CB005892
 - engine #: 3BLC005891
 - license plate #: 20P8963
-- gas: 90+ octane
+- gas: 91+ octane
 - oil: SAE 15W-50
 - tires:
   - front: 120/70-ZR17
