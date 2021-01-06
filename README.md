@@ -40,5 +40,5 @@
 | frame sliders        | 12.17.2020 | 5,700      | $150       | satoracing.com   |
 | axle sliders - F     | 12.17.2020 | 5,700      | $60        | satoracing.com   |
 | axle sliders - R     | 12.17.2020 | 5,700      | $65        | satoracing.com   |
-| stand                |            |            | $155       | t-rex-racing.com |
+| stand                | 01.05.2020 | 6,xxx      | $155       | t-rex-racing.com |
 | seat                 |            |            | $270       | pure-ducati.com  |
