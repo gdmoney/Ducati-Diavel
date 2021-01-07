@@ -33,12 +33,13 @@
 | Part                 | Date       | Mileage    | Price      | Notes            |
 | :------------------- | :--------- | :--------- | :--------- | :--------------- |
 | bar end mirrors      | 12.17.2020 | 5,700      | $20        | ebay             |
-| passenger back rest  |            |            |            |                  |
-| windscreen           |            |            |            |                  |
-| fender eliminator    |            |            |            |                  |
-| engine covers        |            |            |            |                  |
 | frame sliders        | 12.17.2020 | 5,700      | $150       | satoracing.com   |
 | axle sliders - F     | 12.17.2020 | 5,700      | $60        | satoracing.com   |
 | axle sliders - R     | 12.17.2020 | 5,700      | $65        | satoracing.com   |
-| stand                | 01.05.2020 | 6,xxx      | $155       | t-rex-racing.com |
+| stand                | 01.05.2020 | 6,150      | $155       | t-rex-racing.com |
 | seat                 |            |            | $270       | pure-ducati.com  |
+| engine covers        |            |            |            |                  |
+| windscreen           |            |            |            |                  |
+| passenger back rest  |            |            |            |                  |
+| fender eliminator    |            |            |            |                  |
+
