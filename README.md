@@ -27,7 +27,7 @@
 | battery              |            |            |            |                  |
 | spark plugs          |            |            |            |                  |
 | valve adjustment     |            |            |            |                  |
-| chain clean/wax      | 01.10.2021 | 6,xxx      |            |                  |
+| chain clean/wax      | 01.10.2021 | 6,200      |            |                  |
 
 *****
 
