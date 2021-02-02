@@ -38,7 +38,7 @@
 | axle sliders - F     | 12.17.2020 | 5,700      | $60        | satoracing.com   |
 | axle sliders - R     | 12.17.2020 | 5,700      | $65        | satoracing.com   |
 | stand                | 01.05.2020 | 6,150      | $155       | t-rex-racing.com |
-| seat                 | 01.18.2021 | 6,300      | $270       | pure-ducati.com  |
+| touring seat         | 01.18.2021 | 6,300      | $270       | pure-ducati.com  |
 | engine covers        |            |            |            |                  |
 | windscreen           |            |            |            |                  |
 | passenger back rest  |            |            |            |                  |
