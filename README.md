@@ -11,7 +11,7 @@
 - tires:
   - front: `120/70-ZR17`
   - rear: `240/45-ZR17`
-  - `36` PSI for both front and rear (`38` with passenger)
+  - PSI: `36` for both front and rear (`38` with passenger)
 
 *****
 
