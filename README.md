@@ -1,4 +1,5 @@
 # 2012 Ducati Diavel Carbon
+Maintenance log and parts tracking for my current ride.
 
 ![](pictures/pic.png)
 
