@@ -19,7 +19,7 @@
 
 | Service              | Date       | Mileage    | Price      | Notes            |
 | :------------------- | :--------: | :--------: | :--------- | :--------------- |
-| oil & filter         |            |            |            |                  |
+| engine oil & filter  | 06.20.2021 | 7,500      |            | KN-153           |
 | air filter           |            |            |            |                  |
 | brake pads - F       |            |            |            |                  |
 | brake pads - R       |            |            |            |                  |
@@ -45,4 +45,3 @@
 | windscreen           |            |            |            |                  |
 | passenger back rest  |            |            |            |                  |
 | fender eliminator    |            |            |            |                  |
-
