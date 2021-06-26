@@ -11,6 +11,7 @@
 - gas: `91+` octane
 - oil: SAE `15W-50`
 - tires:
+  - model: `Pirelli Diablo Rosso III`
   - front: `120/70-ZR17`
   - rear: `240/45-ZR17`
   - PSI: `36` for both front and rear (`38` with a passenger)
